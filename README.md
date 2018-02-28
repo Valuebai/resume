@@ -12,6 +12,6 @@
 * 生成网页:```npm run rebuild```
 * 打开index.html预览.
 
-##　感谢
+## 感谢
 
 简历模板借鉴自　[@ Cong Min](https://congm.in),调整了部分css.
